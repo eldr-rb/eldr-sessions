@@ -8,8 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Eldr::Sessions::VERSION
   spec.authors       = ['K-2052']
   spec.email         = ['k@2052.me']
-  spec.summary       = %q{Session helpers for the Eldr ruby framework.}
-  spec.description   = %q{Session helpers for the Eldr ruby framework.}
+  spec.summary       = %q{Session helpers for the Eldr ruby framework}
   spec.homepage      = 'https://github.com/eldr-rb/eldr-sessions'
   spec.license       = 'MIT'
 
